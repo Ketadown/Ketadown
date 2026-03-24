@@ -1,5 +1,5 @@
 
-## `$ whoami`
+## `$whoami`
 ```bash
 > karar --info
 
@@ -10,7 +10,7 @@
   Mission    : Documenter ma progression & référencer mes projets perso/scolaires
 ```
 
-> 👋 Bienvenue sur mon GitHub — ici tu trouveras mes projets perso, mes exercices de formation et ma progression pas à pas dans le monde du dev.
+> :) Bienvenue sur mon GitHub — ici tu trouveras mes projets perso, mes exercices de formation et ma progression pas à pas dans le monde du dev.
 
 ---
 
@@ -55,21 +55,6 @@
 
 </div>
 
----
-
-## `$Contact`
-
-<div align="center">
-
-| Coordonnées | Lien |
-|-------|------|
-| LinkedIn | [Karar Ali Hassan](https://www.linkedin.com/in/karar-ali-hassan-5365363a6) |
-| GitHub | [@Ketadown](https://github.com/Ketadown) |
-| 📍 Localisation | Toulouse, France |
-
-</div>
-
----
 
 <div align="center">
 
