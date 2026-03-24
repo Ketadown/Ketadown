@@ -8,7 +8,12 @@ Je m'appele Karar, j'utilise GitHub pour suivre et documenter ma progression dan
 
 ### Mes Compétences
 
-* **Langages :** PHP, SQL, Python, Java/C# 
+* **Langages :**
+* -PHP,
+* -SQL,
+* -Python,
+* -HTML, ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+* -Java/C# 
 * **Web :** HTML5, CSS3, JavaScript
 * **Outils :** Git, Docker, VS Code
 * **Systèmes :** Linux (Debian/Ubuntu), Windows Server
