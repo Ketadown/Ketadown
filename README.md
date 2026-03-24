@@ -1,17 +1,3 @@
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Étudiant+BTS+SIO+%F0%9F%92%BB;Dev+en+construction+%F0%9F%94%A8;Python+%7C+PHP+%7C+Java+%7C+SQL;Le+meilleur+jeu+c'est+Minecraft." alt="Typing SVG" />
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Karar_Ali_Hassan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karar-ali-hassan-5365363a6)
-[![GitHub followers](https://img.shields.io/github/followers/Ketadown?style=for-the-badge&logo=github&color=181717)](https://github.com/Ketadown)
-![Location](https://img.shields.io/badge/📍_Toulouse-France-FF4500?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-En_formation_🎓-00FF88?style=for-the-badge)
-
-</div>
-
----
 
 ## `$ whoami`
 ```bash
@@ -94,6 +80,19 @@
 ```
 
 <img src="https://komarev.com/ghpvc/?username=Ketadown&style=for-the-badge&color=00FF88&label=VISITES+DU+PROFIL" />
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Étudiant+BTS+SIO+%F0%9F%92%BB;Dev+en+construction+%F0%9F%94%A8;Python+%7C+PHP+%7C+Java+%7C+SQL;Le+meilleur+jeu+c'est+Minecraft." alt="Typing SVG" />
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Karar_Ali_Hassan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karar-ali-hassan-5365363a6)
+[![GitHub followers](https://img.shields.io/github/followers/Ketadown?style=for-the-badge&logo=github&color=181717)](https://github.com/Ketadown)
+![Location](https://img.shields.io/badge/📍_Toulouse-France-FF4500?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-En_formation_🎓-00FF88?style=for-the-badge)
+
+</div>
 
 *✦ En formation · En construction · En progression ✦*
 
