@@ -15,7 +15,7 @@
 
 ---
 
-## `$ cat skills.json`
+## `$Skills`
 
 <div align="center">
 
@@ -36,16 +36,14 @@
 ### 〔 Outils & Systèmes 〕
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux_Debian%2FUbuntu-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 </div>
 
 ---
 
-## `$ git log --stats`
+## `$Stats`
 
 <div align="center">
 
