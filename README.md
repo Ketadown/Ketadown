@@ -2,9 +2,9 @@ Salut, moi c'est Ketadown 👋
 
 ### Étudiant en BTS SIO (Services Informatiques aux Organisations) 
 
-Passionné par le développement et les solutions d'infrastructure, j'utilise GitHub pour documenter ma progression, stocker mes projets d'école et mes expérimentations personnelles.
+Je m'appele Karar, j'utilise GitHub pour suivre et documenter ma progression dans divers Langages et référencer mes projets perso. et scolaire ! 
 
----
+-_-_-_-_-_-_-_-_-_-
 
 ### Mes Compétences
 
@@ -17,13 +17,13 @@ Passionné par le développement et les solutions d'infrastructure, j'utilise Gi
 
 ![Stats de Karar](https://github-readme-stats.vercel.app/api?username=Ketadown&show_icons=true&theme=radical)
 
----
+-_-_-_-_-_-_-_-_-_-
 
 ### 📫 Me contacter
 
 * **LinkedIn :** Karar Ali Hassan www.linkedin.com/in/karar-ali-hassan-5365363a6
 * **Localisation :** France,Toulouse 🇫🇷
-
----
+  
+-_-_-_-_-_-_-_-_-_-
 
 *“Le meilleur jeu c'est Minecraft, pas ouvert au débat.”*
