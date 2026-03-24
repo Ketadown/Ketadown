@@ -1,4 +1,4 @@
-<div align="center">
+
 ```
 ██╗  ██╗███████╗████████╗ █████╗ ██████╗  ██████╗ ██╗    ██╗███╗   ██╗
 ██║ ██╔╝██╔════╝╚══██╔══╝██╔══██╗██╔══██╗██╔═══██╗██║    ██║████╗  ██║
@@ -7,7 +7,7 @@
 ██║  ██╗███████╗   ██║   ██║  ██║██████╔╝╚██████╔╝╚███╔███╔╝██║ ╚████║
 ╚═╝  ╚═╝╚══════╝   ╚═╝   ╚═╝  ╚═╝╚═════╝  ╚═════╝  ╚══╝╚══╝ ╚═╝  ╚═══╝
 ```  
-</div>
+
 ## `$whoami`
 ```bash
 > karar --info
@@ -23,7 +23,7 @@
 
 ---
 
-## `$Skills`
+## `$skills`
 
 <div align="center">
 
@@ -51,7 +51,7 @@
 
 ---
 
-## `$Stats`
+## `$stats`
 
 <div align="center">
 
@@ -72,6 +72,8 @@
 <div align="center">
 
 
+<br/>
+<br/>
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Karar_Ali_Hassan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karar-ali-hassan-5365363a6)
