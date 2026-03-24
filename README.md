@@ -8,7 +8,6 @@
   Formation  : BTS SIO (Services Informatiques aux Organisations)
   Localisation : Toulouse, France 🇫🇷
   Mission    : Documenter ma progression & référencer mes projets perso/scolaires
-  Fun fact   : "Le meilleur jeu c'est Minecraft. Pas ouvert au débat. 🟫⛏️"
 ```
 
 > 👋 Bienvenue sur mon GitHub — ici tu trouveras mes projets perso, mes exercices de formation et ma progression pas à pas dans le monde du dev.
@@ -58,14 +57,14 @@
 
 ---
 
-## `$ ping ketadown`
+## `$Contact`
 
 <div align="center">
 
-| Canal | Lien |
+| Coordonnées | Lien |
 |-------|------|
-| 💼 LinkedIn | [Karar Ali Hassan](https://www.linkedin.com/in/karar-ali-hassan-5365363a6) |
-| 🐙 GitHub | [@Ketadown](https://github.com/Ketadown) |
+| LinkedIn | [Karar Ali Hassan](https://www.linkedin.com/in/karar-ali-hassan-5365363a6) |
+| GitHub | [@Ketadown](https://github.com/Ketadown) |
 | 📍 Localisation | Toulouse, France |
 
 </div>
@@ -73,15 +72,11 @@
 ---
 
 <div align="center">
-```
-> "Le meilleur jeu c'est Minecraft. Pas ouvert au débat." — Ketadown
-```
 
 <img src="https://komarev.com/ghpvc/?username=Ketadown&style=for-the-badge&color=00FF88&label=VISITES+DU+PROFIL" />
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Étudiant+BTS+SIO+%F0%9F%92%BB;Dev+en+construction+%F0%9F%94%A8;Python+%7C+PHP+%7C+Java+%7C+SQL;Le+meilleur+jeu+c'est+Minecraft." alt="Typing SVG" />
 
 <br/>
 
